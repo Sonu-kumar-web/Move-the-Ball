@@ -1,0 +1,9 @@
+#ball {
+width: 15vw;
+height: 15vw;
+border-radius: 50%;
+background-image: radial-gradient(#fc4a1a 15%,#f7b733 60%);
+position: absolute;
+top: 45%;
+left: 45%;
+}
